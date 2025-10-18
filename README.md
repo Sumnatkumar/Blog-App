@@ -3,7 +3,7 @@
 
 ![React](https://img.shields.io/badge/React-18.2.0-61dafb)
 ![JDK](https://img.shields.io/badge/JDK-17-orange)
-![springBoot](https://img.shields.io/badge/Spring%20Boot-2.6.7-brightgreen)
+![springBoot](https://img.shields.io/badge/Spring%20Boot-3.4.7-brightgreen)
 ![H2](https://img.shields.io/badge/H2-1.4.2-darkblue)
 
 | ![react-blog-480](https://user-images.githubusercontent.com/92530084/180834501-d0e70e96-9659-42f0-971b-421b3627886a.gif) |
@@ -28,4 +28,3 @@ username: `admin` password: `admin`.
 ### Reference
 
 - [Blog REST API documentation](./backend/README.md)
-- [Sister project using Thymeleaf and Spring MVC](https://github.com/hmurij/thymeleaf-spring-mvc-blog)
